@@ -9,4 +9,5 @@ X-S（JSVMP还原）、X-S-Common、X-Sign、B3-Traceid、web_session、a1
 使用算法生成 a1 无限次获取相关信息
 
 联系：https://t.me/bytesdouyin
-频道：https://t.me/webbytes1（各种算法及协议运行效果在频道发布）
+
+频道：https://t.me/webbytes1    （各种算法及协议运行效果在频道发布）
